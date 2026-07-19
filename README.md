@@ -383,3 +383,1384 @@ Engineering Communities
 </div>
 
 ---
+
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28"/> AI / Machine Learning Expertise
+
+<div align="center">
+
+*"Designing intelligent systems by combining Machine Learning, Deep Learning, Large Language Models, and Full Stack Engineering."*
+
+</div>
+
+---
+
+## AI Engineering Expertise
+
+| Domain | Proficiency | Technologies | Experience |
+|---------|:----------:|--------------|------------|
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Scikit-learn, TensorFlow, NumPy, Pandas | End-to-end ML model development, feature engineering, preprocessing, model evaluation |
+| **Deep Learning** | ⭐⭐⭐⭐☆ | TensorFlow, CNN | Built CNN-based facial emotion recognition models with high classification accuracy |
+| **Natural Language Processing** | ⭐⭐⭐⭐⭐ | Hugging Face, DistilBERT, Transformers | Customer sentiment analysis, text classification, preprocessing, inference pipelines |
+| **Generative AI** | ⭐⭐⭐⭐⭐ | Mistral, Qwen, GGUF | Built AI assistants powered by locally hosted LLMs |
+| **Large Language Models** | ⭐⭐⭐⭐⭐ | Mistral 3B, Qwen2.5, Hugging Face | Prompt engineering, inference optimization, fine-tuning |
+| **RAG Systems** | ⭐⭐⭐⭐☆ | LangChain, Vector Search | Retrieval-Augmented Generation pipelines and contextual AI responses |
+| **Prompt Engineering** | ⭐⭐⭐⭐⭐ | LLM Prompt Design | Optimized prompts for accurate and reliable AI responses |
+| **Computer Vision** | ⭐⭐⭐⭐☆ | OpenCV, CNN, Facial Landmarks | Facial emotion recognition using image processing and deep learning |
+| **Multimodal AI** | ⭐⭐⭐⭐☆ | Vision + NLP + LLM | Combined facial emotion recognition with conversational AI |
+| **Model Fine-Tuning** | ⭐⭐⭐⭐⭐ | QLoRA, PEFT | Fine-tuned Qwen2.5-3B on custom datasets |
+| **Data Engineering** | ⭐⭐⭐⭐☆ | Pandas, NumPy | Data cleaning, transformation, feature extraction, preprocessing |
+| **Model Deployment** | ⭐⭐⭐⭐☆ | FastAPI, REST APIs | Production-ready AI inference services |
+
+---
+
+## AI Technology Stack
+
+<div align="center">
+
+| Layer | Technologies |
+|------|---------------|
+| **Data Processing** | Pandas • NumPy • Matplotlib |
+| **Model Development** | TensorFlow • Scikit-learn • CNN |
+| **Natural Language Processing** | Hugging Face • DistilBERT • Transformers |
+| **Large Language Models** | Mistral • Qwen • GGUF |
+| **Fine-Tuning** | QLoRA • PEFT |
+| **Retrieval Systems** | LangChain • RAG |
+| **Backend Deployment** | FastAPI • REST APIs |
+| **Frontend Integration** | React • TypeScript |
+| **Database** | PostgreSQL • MySQL |
+
+</div>
+
+---
+
+## AI Development Workflow
+
+```text
+Raw Data
+     │
+     ▼
+Data Cleaning & Preprocessing
+     │
+     ▼
+Feature Engineering
+     │
+     ▼
+Model Selection
+     │
+     ▼
+Training & Validation
+     │
+     ▼
+Hyperparameter Tuning
+     │
+     ▼
+Evaluation
+     │
+     ▼
+FastAPI Deployment
+     │
+     ▼
+React Frontend
+     │
+     ▼
+Production AI Application
+```
+
+---
+
+## Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence | Software Engineering |
+|:-----------------------:|:--------------------:|
+| Machine Learning | Backend Development |
+| Deep Learning | API Design |
+| Generative AI | System Architecture |
+| Large Language Models | Scalable Applications |
+| Prompt Engineering | Cloud-Native Development |
+| NLP | Product Engineering |
+| Computer Vision | Distributed Systems |
+| RAG Pipelines | Performance Optimization |
+
+</div>
+
+---
+
+## Engineering Principles
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### AI Development
+
+- Data-driven decisions
+- Reproducible experiments
+- Explainable models
+- Continuous evaluation
+- Production-ready deployment
+- Responsible AI practices
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Clean Architecture
+- SOLID Principles
+- Modular Design
+- API-first Development
+- Performance Optimization
+- Maintainable Code
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Currently Exploring
+
+- Agentic AI Systems
+- Multi-Agent Architectures
+- Advanced RAG Pipelines
+- AI System Design
+- LLM Evaluation Frameworks
+- MCP (Model Context Protocol)
+- AI Infrastructure
+- Kubernetes for AI Workloads
+
+---
+
+<div align="center">
+
+### **"Turning AI research into scalable, production-ready software."**
+
+</div>
+
+---
+
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> Featured Projects
+
+> **Building production-ready AI applications with modern software engineering principles, scalable architectures, and intelligent automation.**
+
+---
+
+<details open>
+
+<summary><b>🤖 Mr. Analyst — AI Data Analyst</b></summary>
+
+<br>
+
+### Overview
+
+**Mr. Analyst** is a full-stack AI-powered data analytics platform that enables users to upload datasets, perform intelligent analysis using a fine-tuned Large Language Model, and generate interactive visualizations in real time.
+
+---
+
+| Category | Details |
+|-----------|---------|
+| **Role** | AI Engineer & Full Stack Developer |
+| **Stack** | Python, FastAPI, React, TypeScript, PostgreSQL |
+| **AI Model** | Fine-tuned Qwen2.5-3B (QLoRA) |
+| **Deployment** | Local GGUF Inference |
+| **Visualization** | Interactive Charts |
+| **Architecture** | REST API + AI Inference Pipeline |
+
+---
+
+### Engineering Highlights
+
+- Fine-tuned Qwen2.5-3B using QLoRA
+- Built complete FastAPI backend
+- Interactive React dashboard
+- Real-time AI data analysis
+- Automatic chart generation
+- Secure REST API architecture
+- Optimized CPU inference using GGUF models
+
+---
+
+| Metric | Value |
+|---------|------|
+| Dataset Size | 4,118+ Samples |
+| Evaluation Score | 92 / 100 |
+| Charts Supported | 10+ |
+| API Architecture | RESTful |
+| Performance | Low Latency |
+
+---
+
+**Repository**
+
+```text
+https://github.com/yourusername/mr-analyst
+```
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🧠 EmoFusion — Multimodal Emotional Healthcare Assistant</b></summary>
+
+<br>
+
+### Overview
+
+EmoFusion is a multimodal AI healthcare assistant capable of understanding both **textual sentiment** and **facial emotions** before generating personalized responses using a locally hosted Large Language Model.
+
+---
+
+| Category | Details |
+|-----------|---------|
+| **Role** | AI Engineer |
+| **Frontend** | React + TypeScript |
+| **Backend** | FastAPI |
+| **AI Models** | DistilBERT + Mistral 3B |
+| **Computer Vision** | OpenCV + Facial Landmarks |
+| **Communication** | WebSockets |
+
+---
+
+### Key Features
+
+- Facial emotion recognition
+- NLP sentiment analysis
+- Real-time webcam processing
+- AI healthcare chatbot
+- Dynamic prompt engineering
+- Privacy-first local inference
+- Streaming AI responses
+
+---
+
+| Metric | Value |
+|---------|------|
+| Emotion Classes | 7 |
+| Face Landmarks | 468 |
+| Inference | Local LLM |
+| Response Mode | Streaming |
+| Architecture | Multimodal AI |
+
+---
+
+### Engineering Impact
+
+- Combined Computer Vision with NLP
+- Integrated Large Language Models
+- Low-latency AI response pipeline
+- Modular backend architecture
+- Production-ready API design
+
+---
+
+**Repository**
+
+```text
+https://github.com/yourusername/emofusion
+```
+
+</details>
+
+---
+
+<details>
+
+<summary><b>💬 Intelligent Customer Sentiment Analysis</b></summary>
+
+<br>
+
+### Overview
+
+An enterprise-grade sentiment analysis platform capable of processing large-scale customer feedback using transformer-based NLP models for accurate business intelligence.
+
+---
+
+| Category | Details |
+|-----------|---------|
+| **Framework** | Hugging Face |
+| **Model** | DistilBERT |
+| **Backend** | FastAPI |
+| **Frontend** | React |
+| **Dataset** | 1M+ Records |
+| **Task** | Text Classification |
+
+---
+
+### Features
+
+- Customer feedback analysis
+- Transformer-based inference
+- Interactive dashboard
+- Data preprocessing pipeline
+- Visualization reports
+- REST APIs
+- Scalable deployment
+
+---
+
+| Metric | Value |
+|---------|------|
+| Dataset | 1M+ Records |
+| Accuracy Improvement | +15% |
+| False Positives Reduced | 20% |
+| Model | DistilBERT |
+
+---
+
+### Engineering Highlights
+
+- Optimized NLP pipeline
+- Improved inference performance
+- Interactive analytics dashboard
+- Production-ready backend
+- Clean modular architecture
+
+---
+
+**Repository**
+
+```text
+https://github.com/yourusername/customer-sentiment-analysis
+```
+
+</details>
+
+---
+
+<details>
+
+<summary><b>💰 ExpenseFlow — Smart Expense Management System</b></summary>
+
+<br>
+
+### Overview
+
+A modern full-stack expense management platform designed with scalable backend architecture, authentication, analytics, and clean UI for personal finance management.
+
+---
+
+| Category | Details |
+|-----------|---------|
+| **Frontend** | React |
+| **Backend** | FastAPI |
+| **Database** | PostgreSQL |
+| **Authentication** | JWT |
+| **ORM** | SQLAlchemy |
+| **Migration** | Alembic |
+
+---
+
+### Features
+
+- JWT Authentication
+- Expense Categories
+- Monthly Reports
+- Dashboard Analytics
+- Search & Filtering
+- Dark Mode
+- Responsive UI
+
+---
+
+| Metric | Value |
+|---------|------|
+| Architecture | Full Stack |
+| Authentication | JWT |
+| Database | PostgreSQL |
+| APIs | RESTful |
+| Deployment | Docker Ready |
+
+---
+
+### Engineering Highlights
+
+- Clean Architecture
+- Secure authentication
+- Modular API structure
+- Database optimization
+- Responsive frontend
+- Production-ready backend
+
+---
+
+**Repository**
+
+```text
+https://github.com/yourusername/expenseflow
+```
+
+</details>
+
+---
+
+## Technology Landscape
+
+<div align="center">
+
+| Project | AI | Backend | Frontend | Database | Deployment |
+|:--------:|:--:|:-------:|:--------:|:--------:|:----------:|
+| Mr. Analyst | ✅ | FastAPI | React | PostgreSQL | Docker |
+| EmoFusion | ✅ | FastAPI | React | PostgreSQL | Local LLM |
+| Sentiment Analysis | ✅ | FastAPI | React | PostgreSQL | REST API |
+| ExpenseFlow | ❌ | FastAPI | React | PostgreSQL | Docker |
+
+</div>
+
+---
+
+<div align="center">
+
+### **Engineering projects focused on scalability, maintainability, and real-world AI applications.**
+
+</div>
+
+---
+
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Professional Experience
+
+> **Hands-on experience building AI solutions, machine learning pipelines, and full-stack applications with a focus on scalable software engineering.**
+
+---
+
+## 💼 Professional Timeline
+
+| Role | Organization | Duration | Location |
+|------|--------------|----------|----------|
+| **Machine Learning Intern** | Coincent | **Feb 2024 – Mar 2024** | Remote |
+| **Data Science Intern** | Millennium Software Solutions | **Apr 2024 – Aug 2024** | Visakhapatnam, India |
+
+---
+
+### 🚀 Machine Learning Intern
+### **Coincent**
+
+**📅 February 2024 – March 2024**
+
+---
+
+#### Overview
+
+Worked as a Machine Learning Intern, developing an AI-powered customer sentiment analysis platform using transformer-based NLP models and modern full-stack technologies.
+
+#### Key Responsibilities
+
+- Designed and developed an end-to-end sentiment analysis application.
+- Implemented NLP pipelines using **DistilBERT** and **Hugging Face Transformers**.
+- Built an interactive React-based frontend for real-time sentiment prediction.
+- Developed RESTful APIs using **FastAPI**.
+- Optimized preprocessing pipelines for large-scale text datasets.
+- Improved model performance through experimentation and evaluation.
+
+#### Engineering Impact
+
+- Processed over **1 Million+ customer feedback records**.
+- Built production-ready inference APIs.
+- Improved inference efficiency through optimized preprocessing.
+- Delivered an intuitive UI for AI-powered business insights.
+
+---
+
+**Technology Stack**
+
+`Python`
+`FastAPI`
+`React`
+`Transformers`
+`DistilBERT`
+`Hugging Face`
+`REST API`
+`Git`
+`GitHub`
+
+---
+
+### 🧠 Data Science Intern
+### **Millennium Software Solutions**
+
+**📅 April 2024 – August 2024**
+
+---
+
+#### Overview
+
+Developed deep learning solutions for facial emotion recognition by designing CNN architectures, optimizing training workflows, and evaluating model performance.
+
+#### Key Responsibilities
+
+- Built CNN models for facial emotion recognition.
+- Performed extensive image preprocessing and augmentation.
+- Conducted model experimentation and hyperparameter tuning.
+- Evaluated multiple architectures to identify the best-performing model.
+- Improved prediction reliability through validation metrics.
+- Assisted in developing production-ready AI workflows.
+
+#### Engineering Impact
+
+- Achieved **87% emotion classification accuracy**.
+- Trained on datasets containing **100K+ facial images**.
+- Improved training efficiency through preprocessing optimization.
+- Selected high-performing deep learning architectures.
+
+---
+
+**Technology Stack**
+
+`Python`
+`TensorFlow`
+`CNN`
+`OpenCV`
+`NumPy`
+`Pandas`
+`Matplotlib`
+`Git`
+
+---
+
+## Engineering Strengths
+
+<div align="center">
+
+| AI Engineering | Backend Engineering | Product Engineering |
+|:--------------:|:------------------:|:-------------------:|
+| Machine Learning | REST APIs | Scalable Systems |
+| Deep Learning | FastAPI | Clean Architecture |
+| NLP | Database Design | Performance Optimization |
+| LLM Integration | Authentication | Production Deployment |
+| Computer Vision | API Integration | Problem Solving |
+
+</div>
+
+---
+
+## Professional Skills
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Technical Skills
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Large Language Models
+- Computer Vision
+- FastAPI
+- React
+- PostgreSQL
+- REST APIs
+
+</td>
+
+<td width="50%">
+
+### Professional Skills
+
+- Problem Solving
+- Team Collaboration
+- Analytical Thinking
+- Communication
+- Agile Development
+- Time Management
+- Continuous Learning
+- Product Mindset
+- Attention to Detail
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Career Highlights
+
+- ✅ Built multiple production-ready AI applications.
+- ✅ Developed scalable REST APIs using FastAPI.
+- ✅ Fine-tuned Large Language Models using QLoRA.
+- ✅ Designed multimodal AI systems.
+- ✅ Worked with datasets containing over **1M+ records**.
+- ✅ Developed modern full-stack applications using React and TypeScript.
+- ✅ Passionate about AI, software engineering, and continuous innovation.
+
+---
+
+<div align="center">
+
+### *"Every project is an opportunity to build software that is scalable, intelligent, and impactful."*
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                 ACHIEVEMENTS & RECOGNITION                 -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> Achievements & Recognition
+
+> **A snapshot of my engineering journey, technical accomplishments, and continuous learning.**
+
+---
+
+<div align="center">
+
+| 🏆 Recognition | 📌 Details |
+|:--------------:|-----------|
+| 🤖 **AI Engineer** | Designed and developed multiple end-to-end AI applications using Machine Learning, Deep Learning, and Large Language Models. |
+| 🧠 **LLM Developer** | Fine-tuned Qwen2.5-3B using QLoRA and built production-ready AI inference pipelines. |
+| 💻 **Full Stack Developer** | Developed scalable full-stack applications using React, FastAPI, PostgreSQL, and REST APIs. |
+| 📊 **Data Science Practitioner** | Worked with datasets containing over **1M+ records** for NLP and predictive analytics. |
+| ⚡ **Backend Engineer** | Built secure, modular, and scalable REST APIs following clean architecture principles. |
+| 🔍 **Computer Vision Enthusiast** | Developed CNN-based facial emotion recognition systems with high prediction accuracy. |
+| 🚀 **Generative AI Builder** | Integrated Mistral and Qwen LLMs into intelligent applications using prompt engineering and RAG techniques. |
+| 🌱 **Continuous Learner** | Continuously exploring Agentic AI, Multi-Agent Systems, Advanced RAG, and AI Infrastructure. |
+
+</div>
+
+---
+
+## Engineering Milestones
+
+<div align="center">
+
+| Achievement | Value |
+|:-----------:|:----:|
+| 🤖 AI Applications Built | **4+** |
+| 🧠 Large Language Models | **Mistral • Qwen** |
+| 📊 Largest Dataset Processed | **1M+ Records** |
+| 💬 REST APIs Developed | **Multiple Production APIs** |
+| 🖥️ Full Stack Projects | **4+** |
+| 🎯 Emotion Recognition Accuracy | **87%** |
+| 📈 Model Evaluation Score | **92 / 100** |
+| 🗄️ Databases Used | **PostgreSQL • MySQL** |
+
+</div>
+
+---
+
+## Technical Highlights
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Prompt Engineering
+- RAG Pipelines
+- NLP
+- Computer Vision
+- Model Fine-Tuning
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Full Stack Development
+- Backend Architecture
+- FastAPI Development
+- REST APIs
+- Database Design
+- Authentication
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Professional Values
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🎯 **Quality First** | Build clean, maintainable, and scalable software. |
+| 🚀 **Continuous Improvement** | Learn, experiment, and adopt modern technologies. |
+| 🤝 **Collaboration** | Work effectively within cross-functional engineering teams. |
+| 💡 **Innovation** | Solve real-world problems through AI-driven solutions. |
+| 📈 **Performance** | Focus on efficiency, scalability, and reliability. |
+| 🔒 **Best Practices** | Follow industry standards for secure and production-ready applications. |
+
+</div>
+
+---
+
+## Career Goals
+
+- Build enterprise-scale AI products.
+- Contribute to impactful open-source projects.
+- Advance expertise in Generative AI and Agentic AI.
+- Design scalable software architectures for real-world applications.
+- Continuously grow as an AI Engineer and Software Engineer.
+
+---
+
+<div align="center">
+
+### **"Success is measured not only by what you build, but by the impact your solutions create."**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CERTIFICATIONS                          -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/> Certifications
+
+> **Continuous learning is at the core of my engineering journey. I regularly upskill in Artificial Intelligence, Machine Learning, Cloud Computing, Data Science, and Modern Software Engineering.**
+
+---
+
+## Oracle
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</div>
+
+---
+
+## Microsoft
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-Foundations%20of%20AI%20%26%20ML-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-AI-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</div>
+
+---
+
+## IBM
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Python-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</div>
+
+---
+
+## Google
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google-The%20Power%20of%20Statistics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+---
+
+
+## NPTEL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Programming-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+---
+
+## Certification Overview
+
+<div align="center">
+
+| Provider | Focus Area | Status |
+|:---------:|:----------|:------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20"/> **Oracle** | Data Science • Database | ✅ Completed |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="20"/> **Microsoft** | AI & Machine Learning | ✅ Completed |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **Google** | Statistics & Data Analytics | ✅ Completed |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="20"/> **IBM** | Python & Data Analysis | ✅ Completed |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> **AWS** | Cloud Computing | 🚀 Learning |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="20"/> **Cisco** | Networking & Security | 🚀 Learning |
+| 🎓 **NPTEL** | Computer Science | 🚀 Ongoing |
+
+</div>
+
+---
+
+## Learning Philosophy
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Current Learning
+
+- Agentic AI
+- Multi-Agent Systems
+- Advanced RAG
+- Kubernetes
+- Docker
+- Cloud Deployment
+- AI Infrastructure
+
+</td>
+
+<td width="50%">
+
+### Future Certifications
+
+- AWS Certified AI Practitioner
+- AWS Solutions Architect
+- Microsoft Azure AI Engineer
+- TensorFlow Developer
+- Oracle Cloud Infrastructure
+- Kubernetes (CKA)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+### **"Learning never stops. Every certification is another step toward engineering excellence."**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  GITHUB ANALYTICS                          -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> GitHub Analytics
+
+> **A visual overview of my development activity, programming languages, repository contributions, and coding consistency.**
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnyk-0733&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnyk-0733&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=vinnyk-0733&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+## GitHub Profile Summary
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnyk-0733&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinnyk-0733&theme=tokyonight"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinnyk-0733&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinnyk-0733&theme=tokyonight"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinnyk-0733&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+## Development Metrics
+
+<div align="center">
+
+| Metric | Description |
+|:------:|-------------|
+| 📦 Repositories | AI, Machine Learning, Full Stack & Open Source Projects |
+| 💻 Languages | Python, JavaScript, TypeScript, SQL |
+| 🚀 Focus | Artificial Intelligence, Backend Engineering, Full Stack Development |
+| 🤝 Collaboration | Open Source, Team Projects, Knowledge Sharing |
+| 📈 Goal | Build scalable and production-ready AI systems |
+
+</div>
+
+---
+
+## GitHub Highlights
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Engineering
+
+- Production-ready repositories
+- Clean architecture
+- RESTful APIs
+- AI-powered applications
+- Full Stack Development
+- Backend Engineering
+
+</td>
+
+<td width="50%">
+
+### Open Source
+
+- Continuous Contributions
+- Learning in Public
+- Project Documentation
+- Code Quality
+- Modern Development Practices
+- Community Engagement
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+### Contribution Philosophy
+
+> **Consistency beats intensity. Every commit is a step toward engineering excellence.**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                   GITHUB TROPHIES                          -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> GitHub Achievements
+
+> **A showcase of my GitHub milestones, contribution consistency, and engineering journey.**
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vinnyk-0733&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## Trophy Categories
+
+<div align="center">
+
+| 🏆 Category | Description |
+|:-----------:|-------------|
+| ⭐ **Stars** | Recognition received from the developer community |
+| 🔥 **Commits** | Consistent contribution and development activity |
+| 📦 **Repositories** | Open-source projects and engineering work |
+| 👥 **Followers** | Growing professional developer network |
+| 💻 **Pull Requests** | Collaboration and code contributions |
+| 🚀 **Issues** | Active participation in software development |
+| 🎯 **Experience** | Continuous improvement and learning |
+| 🌍 **Open Source** | Community engagement and knowledge sharing |
+
+</div>
+
+---
+
+## Open Source Goals
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Short-Term Goals
+
+- Build high-quality AI repositories
+- Increase GitHub contribution consistency
+- Publish production-ready projects
+- Improve repository documentation
+- Share engineering knowledge
+
+</td>
+
+<td width="50%">
+
+### Long-Term Goals
+
+- Become an active open-source contributor
+- Build enterprise-grade AI frameworks
+- Contribute to major AI libraries
+- Mentor developers through open source
+- Develop impactful community projects
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Engineering Principles
+
+<div align="center">
+
+| Principle | Focus |
+|-----------|-------|
+| 🚀 Innovation | Build practical AI solutions |
+| 📈 Growth | Learn continuously |
+| 💡 Quality | Write clean, maintainable code |
+| 🤝 Collaboration | Contribute to open source |
+| 🔒 Reliability | Develop production-ready systems |
+| 🌍 Impact | Create software that solves real-world problems |
+
+</div>
+
+---
+
+<div align="center">
+
+### **"Great software is built one meaningful contribution at a time."**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--              CONTRIBUTION ACTIVITY GRAPH                   -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> Contribution Activity
+
+> **Consistency, collaboration, and continuous learning through code.**
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinnyk-0733&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                        -->
+<!-- ========================================================= -->
+
+# <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="28"/> Contribution Snake
+
+<div align="center">
+
+> **⚠️ This animation will work only after enabling the GitHub Action in your repository.**
+
+<img src="https://raw.githubusercontent.com/vinnyk-0733/vinnyk-0733/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                           -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> Current Focus
+
+```yaml
+Current:
+  Role:
+    - AI Engineer
+    - Machine Learning Engineer
+    - Full Stack Developer
+
+Learning:
+  - Agentic AI
+  - Multi-Agent Systems
+  - Advanced RAG
+  - MCP (Model Context Protocol)
+  - AI System Design
+  - Kubernetes
+  - Docker
+  - Cloud Deployment
+
+Building:
+  - Production-ready AI Applications
+  - Intelligent Data Analysis Systems
+  - AI Assistants
+  - FastAPI Backend Services
+  - React + TypeScript Applications
+
+Exploring:
+  - AI Infrastructure
+  - Model Optimization
+  - AI Agents
+  - Distributed Systems
+  - Vector Databases
+
+Open_To:
+  - Software Engineer Roles
+  - AI Engineer Roles
+  - Machine Learning Engineer Roles
+  - Backend Engineer Roles
+  - Full Stack Engineer Roles
+  - Open Source Collaboration
+```
+
+---
+
+## 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:-----|:--------:|
+| 🤖 Build AI Products | 🟣🟣🟣🟣⚪ |
+| 🚀 Open Source Contributions | 🟣🟣🟣⚪⚪ |
+| 💻 System Design | 🟣🟣🟣🟣⚪ |
+| 📚 Learn Agentic AI | 🟣🟣🟣⚪⚪ |
+| 🌍 Production Deployments | 🟣🟣🟣🟣⚪ |
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    CONNECT WITH ME                         -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28"/> Connect With Me
+
+<div align="center">
+
+<a href="mailto:vinayakumar464@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vinaya-kumar-49472031b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vinnyk-0733">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together
+
+I'm always interested in collaborating on:
+
+🤖 Artificial Intelligence • 🧠 Machine Learning • ⚡ Backend Engineering • 🌐 Full Stack Development • 🚀 Open Source
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## *"Engineering intelligent software today to solve tomorrow's challenges."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,20:4338CA,40:6366F1,60:7C3AED,80:5B21B6,100:3B0764&height=140&section=footer"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                 ENGINEERING HIGHLIGHTS                     -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="28"/> Engineering Highlights
+
+> **A quick snapshot of my core expertise, engineering philosophy, and technical strengths.**
+
+---
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 💻 Software Engineering | 🚀 Product Engineering |
+|:-------------------------:|:----------------------:|:----------------------:|
+| Machine Learning | FastAPI | Clean Architecture |
+| Deep Learning | React | Scalable Systems |
+| Large Language Models | REST APIs | Performance Optimization |
+| Prompt Engineering | PostgreSQL | Secure Authentication |
+| RAG Pipelines | Database Design | Production Deployment |
+| Computer Vision | Backend Engineering | Modern UI/UX |
+
+</div>
+
+---
+
+## Technical Snapshot
+
+<div align="center">
+
+| Metric | Achievement |
+|:------:|:-----------:|
+| 🤖 AI Projects | **4+** |
+| 📊 Largest Dataset | **1M+ Records** |
+| 🧠 LLMs | **Mistral • Qwen2.5** |
+| 🎯 CNN Accuracy | **87%** |
+| 📈 LLM Evaluation | **92 / 100** |
+| 💻 Backend | **FastAPI** |
+| 🌐 Frontend | **React** |
+| 🗄 Database | **PostgreSQL • MySQL** |
+
+</div>
+
+---
+
+## Core Expertise
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Large Language Models
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Multimodal AI
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- FastAPI Backend Development
+- Full Stack Development
+- REST API Design
+- React & TypeScript
+- PostgreSQL Database Design
+- Authentication & Authorization
+- Docker & Deployment
+- Clean Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Engineering Philosophy
+
+<div align="center">
+
+| Principle | Description |
+|:---------:|-------------|
+| 🧩 **Problem First** | Understand the problem before writing code. |
+| 🏗 **Scalable Design** | Build systems that can grow with users and data. |
+| 🔒 **Secure by Design** | Prioritize security and reliability from the start. |
+| ⚡ **Performance Matters** | Optimize APIs, models, and user experience. |
+| 🧠 **AI with Purpose** | Use AI to solve meaningful, real-world challenges. |
+| 📚 **Continuous Learning** | Stay current with modern AI and software engineering practices. |
+
+</div>
+
+---
+
+## What I Bring
+
+```text
+✓ End-to-End AI Application Development
+✓ Production-Ready REST APIs
+✓ Full Stack Engineering
+✓ Large Language Model Integration
+✓ AI Model Fine-Tuning (QLoRA)
+✓ RAG Pipeline Development
+✓ Database Design & Optimization
+✓ Scalable Backend Architecture
+✓ Modern React Applications
+✓ Clean & Maintainable Code
+```
+
+---
+
+<div align="center">
+
+### **Building intelligent software where AI meets scalable engineering.**
+
+</div>
+
+---
