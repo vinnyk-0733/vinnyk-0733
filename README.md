@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://vinayak-roan.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
