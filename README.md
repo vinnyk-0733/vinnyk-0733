@@ -248,3 +248,137 @@ Engineering Communities
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                      TECH STACK                            -->
+<!-- ========================================================= -->
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="28"/> Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash" />
+</p>
+
+---
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,materialui" />
+</p>
+
+---
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask" />
+</p>
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+---
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-Pipeline-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-Mistral%20%7C%20Qwen-4338CA?style=for-the-badge"/>
+
+---
+
+### Cloud • DevOps • Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,anaconda" />
+</p>
+
+---
+
+### Data Science Ecosystem
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST-API-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WebSockets-4338CA?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+## Technology Overview
+
+| Category | Technologies |
+|------------|--------------|
+| **Programming Languages** | Python, Java(Beginner) |
+| **Frontend** | React, Vite, Tailwind CSS |
+| **Backend** | FastAPI, Node.js, Express.js |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Machine Learning** | TensorFlow, Scikit-learn, Hugging Face, Transformers |
+| **Generative AI** | Mistral, Qwen, Prompt Engineering, RAG, LangChain |
+| **Computer Vision** | OpenCV, CNNs, Facial Emotion Recognition |
+| **Data Science** | Pandas, NumPy, Matplotlib |
+| **Developer Tools** | Git, GitHub, Docker, VS Code, Postman |
+| **Architecture** | REST APIs, Full Stack Development |
+
+---
+
+## Core Expertise
+
+<div align="center">
+
+| Engineering | AI & ML | Product |
+|:-----------:|:-------:|:-------:|
+| REST APIs | Machine Learning | System Design |
+| Backend Development | Deep Learning | Product Engineering |
+| Database Design | NLP | Performance Optimization |
+| Authentication | Computer Vision | Scalable Applications |
+| Full Stack Development | Large Language Models | Cloud Ready Solutions |
+| API Integration | Retrieval-Augmented Generation | Production Deployment |
+
+</div>
+
+---
+
+<div align="center">
+
+### Engineering Philosophy
+
+> **Clean Architecture • Scalable Systems • AI-Driven Solutions • Production-Ready Code**
+
+</div>
+
+---
