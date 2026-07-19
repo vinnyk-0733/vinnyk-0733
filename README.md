@@ -355,22 +355,6 @@ Engineering Communities
 | **Developer Tools** | Git, GitHub, Docker, VS Code, Postman |
 | **Architecture** | REST APIs, Full Stack Development |
 
----
-
-## Core Expertise
-
-<div align="center">
-
-| Engineering | AI & ML | Product |
-|:-----------:|:-------:|:-------:|
-| REST APIs | Machine Learning | System Design |
-| Backend Development | Deep Learning | Product Engineering |
-| Database Design | NLP | Performance Optimization |
-| Authentication | Computer Vision | Scalable Applications |
-| Full Stack Development | Large Language Models | Cloud Ready Solutions |
-| API Integration | Retrieval-Augmented Generation | Production Deployment |
-
-</div>
 
 ---
 
@@ -429,24 +413,6 @@ Engineering Communities
 | **Backend Deployment** | FastAPI • REST APIs |
 | **Frontend Integration** | React • TypeScript |
 | **Database** | PostgreSQL • MySQL |
-
-</div>
----
-
-## Areas of Interest
-
-<div align="center">
-
-| Artificial Intelligence | Software Engineering |
-|:-----------------------:|:--------------------:|
-| Machine Learning | Backend Development |
-| Deep Learning | API Design |
-| Generative AI | System Architecture |
-| Large Language Models | Scalable Applications |
-| Prompt Engineering | Cloud-Native Development |
-| NLP | Product Engineering |
-| Computer Vision | Distributed Systems |
-| RAG Pipelines | Performance Optimization |
 
 </div>
 
@@ -790,14 +756,6 @@ https://github.com/yourusername/expenseflow
 </div>
 
 ---
-
-
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/> Professional Experience
-
-> **Hands-on experience building AI solutions, machine learning pipelines, and full-stack applications with a focus on scalable software engineering.**
-
----
-
 
 
 <!-- ========================================================= -->
