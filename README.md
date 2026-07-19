@@ -830,56 +830,8 @@ https://github.com/yourusername/expenseflow
 
 </div>
 
----
-
-## GitHub Highlights
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Engineering
-
-- Production-ready repositories
-- Clean architecture
-- RESTful APIs
-- AI-powered applications
-- Full Stack Development
-- Backend Engineering
-
-</td>
-
-<td width="50%">
-
-### Open Source
-
-- Continuous Contributions
-- Learning in Public
-- Project Documentation
-- Code Quality
-- Modern Development Practices
-- Community Engagement
-
-</td>
-
-</tr>
-
-</table>
 
 ---
-
-<div align="center">
-
-### Contribution Philosophy
-
-> **Consistency beats intensity. Every commit is a step toward engineering excellence.**
-
-</div>
-
----
-
 
 
 <!-- ========================================================= -->
