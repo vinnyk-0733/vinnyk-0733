@@ -1,8 +1,10 @@
-
+<!-- ========================================================= -->
+<!--                    ANIMATED HEADER                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:3B0764,20:5B21B6,40:7C3AED,60:6366F1,80:4F46E5,100:312E81&text=Vinaya%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:3B0764,20:5B21B6,40:7C3AED,60:6366F1,80:4F46E5,100:312E81&text=Vinaya%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
 </div>
 
@@ -10,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;AI+Engineer;Full+Stack+Developer;FastAPI+%7C+React+%7C+Python;LLMs+%7C+RAG+%7C+Generative+AI;Building+Production+Ready+AI+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;FastAPI+%7C+React+%7C+Python;LLMs+%7C+RAG+%7C+Generative+AI;Building+Production+Ready+AI+Applications"/>
 
 </div>
 
@@ -46,7 +48,7 @@
 
 <div align="center">
 
-<a href="[YOUR_PORTFOLIO_URL](https://vinayak-roan.vercel.app/)">
+<a href="https://vinayak-roan.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
