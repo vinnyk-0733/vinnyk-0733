@@ -311,8 +311,9 @@ Engineering Communities
 
 ### Cloud • DevOps • Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,jupyter" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
 </p>
 
 ---
@@ -345,7 +346,7 @@ Engineering Communities
 |------------|--------------|
 | **Programming Languages** | Python, Java(Beginner) |
 | **Frontend** | React, Vite, Tailwind CSS |
-| **Backend** | FastAPI, Node.js, Express.js |
+| **Backend** | FastAPI, Node.js |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
 | **Machine Learning** | TensorFlow, Scikit-learn, Hugging Face, Transformers |
 | **Generative AI** | Mistral, Qwen, Prompt Engineering, RAG, LangChain |
