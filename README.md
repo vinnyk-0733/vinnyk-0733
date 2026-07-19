@@ -260,7 +260,7 @@ Engineering Communities
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
 ---
@@ -268,7 +268,7 @@ Engineering Communities
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux,materialui" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ---
@@ -276,7 +276,7 @@ Engineering Communities
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ---
@@ -284,7 +284,7 @@ Engineering Communities
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ---
@@ -312,7 +312,7 @@ Engineering Communities
 ### Cloud • DevOps • Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,anaconda" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,jupyter" />
 </p>
 
 ---
